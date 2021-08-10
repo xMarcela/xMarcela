@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xMarcela
-- 👀 Super interested in UI-UX and Frontend development, career-change.
+- 👀 UI-UX and Frontend development, career-change.
 - 🌱 I’m currently learning HTML/ CSS/ Javascript - and my next goal is React
 - 💞️ I’m looking to collaborate on webdesign and apps layout
 - 📫 How to reach me: https://www.linkedin.com/in/aleksandra-marcela-ravn-a83b79204
