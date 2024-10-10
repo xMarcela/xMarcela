@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xMarcela
-- 👀 UI-UX student.
-- 🌱 I’m currently learning HTML/ CSS/ Javascript - and my next goal is React
+- 🎓 UI/ UX from Fagskolen Kristiania
+- 🌱 I’m currently learning HTML/ CSS/ Javascript 
 - 💞️ I’m looking to collaborate on webdesign and apps layout
 - 📫 How to reach me: https://www.linkedin.com/in/aleksandra-marcela-ravn-a83b79204
 
